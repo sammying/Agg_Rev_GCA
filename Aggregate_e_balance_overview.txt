@@ -1,0 +1,25 @@
+Electron and mass balance for aggregates (GCA review response)
+
+Lactate --> Acetate = 4 electron transfer to terminal e acceptors as follows
+
+Ferrihydrite reduction by lactate:
+4Fe(OH)3 + C3H5O3- + 7H+ --> 4Fe2+ + CH3COO- + HCO3- + 10H2O
+
+Birnessite reduction by lactate:
+2MnO2 + C3H5O3- + 3H+ --> 4Mn2+ + CH3COO- + HCO3- + 2H2O
+
+Arsenate reduction by lactate:
+2H2AsO42- + C3H5O3- + 3H+ --> 2H3AsO3 + CH3COO- + HCO3-
+
+O2 reduction by lactate:
+2O2 + C3H5O3- --> CH3COO- + HCO3- + H+
+
+Total number of mols of lactate available at all times:
+We have approximately 2.8 mM lactate influent at all times.
+Effluent lactate and acetate vary immensely over time.
+
+1. Add up the total number of electrons transferred by summing the concentration of As(III), Fe(II), and Mn(II) from ICP data
+2. Assume volume as 1 L to make all mM and uM into mmol and mol mass
+
+
+
